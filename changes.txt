@@ -40,7 +40,7 @@ unemployed - 1
 
 personal_status:
 male div/sep - 1
-female div/set/mar - 2
+female div/dep/mar - 2
 male single - 3
 male mar/wid - 4
 female single - 5
