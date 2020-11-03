@@ -29,7 +29,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # Custom directories
-./openrefine*
+/openrefine-3.4.1/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows
 
