@@ -1,0 +1,56 @@
+checking_status:
+<0 - 1
+0<=X<200 - 2
+>=200 - 3
+no checking - 4
+
+credit_history:
+no credits/ all paid - 1
+all paid - 2
+existing paid - 3
+delayed previously - 4
+critical/ other existing credit - 5
+
+purpose:
+new car - 1
+used car - 2 
+furniture/equipment - 3
+radio/tv - 4
+domestic appliance - 5
+repairs - 6
+education - 7
+vacation - 8
+retraining - 9
+business - 10
+other - 11
+
+saving_status:
+<100 - 1
+100<=X<500 - 2
+500<=X<1000 - 3
+>=1000 - 4
+no known savings - 5
+
+employment:
+unemployed - 1
+<1 - 2
+1<=X<4 - 3
+4<=X<7 - 4
+>=7 - 5
+
+personal_status:
+male div/sep - 1
+female div/set/mar - 2
+male single - 3
+male mar/wid - 4
+female single - 5
+
+job:
+unemp/unskilled non res - 1
+unskilled resident - 2
+skilled - 3
+high qualif/self emp/mgmt - 3
+
+class:
+good - 1
+bad - 2
