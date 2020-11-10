@@ -63,11 +63,11 @@ no checking,critical/other existing credit,radio/tv,9566,<100,1<=X<4,female div/
 0<=X<200,critical/other existing credit,radio/tv,1537,no known savings,>=7,male single,50,skilled,good
 0<=X<200,no credits/all paid,business,1953,<100,>=7,male single,61,high qualif/self emp/mgmt,bad
 0<=X<200,no credits/all paid,business,14421,<100,1<=X<4,male single,25,skilled,bad
-no checking,existing paid,radio/tv,3181,<100,<1,female div/dep/mar,26,yes,good
+no checking,existing paid,radio/tv,3181,<100,<1,female div/dep/mar,26,skilled,good
 no checking,existing paid,repairs,5190,no known savings,>=7,male single,48,skilled,good
 no checking,existing paid,radio/tv,2171,<100,<1,female div/dep/mar,29,skilled,good
 0<=X<200,existing paid,new car,1007,>=1000,1<=X<4,male mar/wid,222,skilled,good
-no checking,existing paid,education,1819,<100,1<=X<4,male single,37,yes,bad
+no checking,existing paid,education,1819,<100,1<=X<4,male single,37,skilled,bad
 no checking,existing paid,radio/tv,2394,no known savings,1<=X<4,female div/dep/mar,25,skilled,good
 no checking,existing paid,used car,8133,<100,1<=X<4,female div/dep/mar,30,skilled,good
 no checking,critical/other existing credit,radio/tv,730,no known savings,>=7,male single,46,unskilled resident,good
