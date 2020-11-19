@@ -63,11 +63,11 @@ no checking,critical/other existing credit,radio/tv,8000<=X<10000,<100,1<=X<4,fe
 0<=X<200,critical/other existing credit,radio/tv,0<=X<2000,no known savings,>=7,male single,50<=X<60,skilled,good
 0<=X<200,no credits/all paid,business,0<=X<2000,<100,>=7,male single,60<=X<70,high qualif/self emp/mgmt,bad
 0<=X<200,no credits/all paid,business,14000<=X<16000,<100,1<=X<4,male single,20<=X<30,skilled,bad
-no checking,existing paid,radio/tv,2000<=X<4000,<100,<1,female div/dep/mar,20<=X<30,yes,good
+no checking,existing paid,radio/tv,2000<=X<4000,<100,<1,female div/dep/mar,20<=X<30,skilled,good
 no checking,existing paid,repairs,4000<=X<6000,no known savings,>=7,male single,40<=X<50,skilled,good
 no checking,existing paid,radio/tv,2000<=X<4000,<100,<1,female div/dep/mar,20<=X<30,skilled,good
 0<=X<200,existing paid,new car,0<=X<2000,>=1000,1<=X<4,male mar/wid,20<=X<30,skilled,good
-no checking,existing paid,education,0<=X<2000,<100,1<=X<4,male single,30<=X<40,yes,bad
+no checking,existing paid,education,0<=X<2000,<100,1<=X<4,male single,30<=X<40,skilled,bad
 no checking,existing paid,radio/tv,2000<=X<4000,no known savings,1<=X<4,female div/dep/mar,20<=X<30,skilled,good
 no checking,existing paid,used car,8000<=X<10000,<100,1<=X<4,female div/dep/mar,30<=X<40,skilled,good
 no checking,critical/other existing credit,radio/tv,0<=X<2000,no known savings,>=7,male single,40<=X<50,unskilled resident,good
