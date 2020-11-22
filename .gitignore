@@ -27,6 +27,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.zip
 
 # Custom directories
 /openrefine-3.4.1/
